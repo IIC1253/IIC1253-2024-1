@@ -4,7 +4,7 @@ about: En caso de dudas sobre el funcionamiento del curso, fechas de entrega, en
   otros.
 title: ''
 labels: administrativo, p2, t2
-assignees: cicarrasco5, vicentespinozaf, AndreaPGS, camiquis
+assignees: AndreaPGS, camiquis, cicarrasco5, vicentespinozaf
 
 ---
 
